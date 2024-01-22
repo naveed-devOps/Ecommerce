@@ -14,12 +14,12 @@
 }
 .hero-left h2{
     color: #090909;
-    font-size:  17px;
+    font-size:  17px;      /*change when make it responsive */
     font-weight: 600;
 }
 .hero-left p{
         color: #171717;
-        font-size: 66px;
+        font-size: 66px;    /*change when make it responsive */
         font-weight: 700;
 }
 .hero-hand-icon{
@@ -28,7 +28,7 @@
     gap: 20px;
 }
 .hero-hand-icon img{
-    width: 60px;
+    width: 60px;       /*change when make it responsive */
 }
 .hero-latest-btn{
     display: flex;
